@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerLib", "PlayerLib\PlayerLib.csproj", "{2670003A-76D0-4875-AEE2-157F3751BB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMusicPlayer", "MusicPlayer\MiniMusicPlayer.csproj", "{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2670003A-76D0-4875-AEE2-157F3751BB59}.Release|x86.ActiveCfg = Release|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C6157EEB-4AC8-4B9D-8BC3-980633D81D32}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
